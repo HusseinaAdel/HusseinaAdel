@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="assets/profile-banner.svg" alt="حسين عادل السحاري - الأمن السيبراني وتطوير البرمجيات" width="100%" />
+<img src="assets/profile-banner.svg" alt="حسين عادل السحاري — قائد فريق HUXORA Technology" width="100%" />
 
 # حسين عادل السحاري
-### طالب أمن سيبراني · مطوّر برمجيات · شغوف بالتقنية
+### قائد فريق HUXORA Technology · طالب أمن سيبراني · مطوّر برمجيات
 
 <img src="https://img.shields.io/badge/CYBERSECURITY-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00FF9C" />
 <img src="https://img.shields.io/badge/SOFTWARE_DEVELOPMENT-0D1117?style=for-the-badge&logo=github&logoColor=white" />
@@ -17,13 +17,13 @@
 
 ## 👨‍💻 نبذة عني
 
-طالب أمن سيبراني مهتم بتطوير البرمجيات، وأنظمة الحاسوب، وبناء مشاريع تقنية عملية. أؤمن أن التعلم الحقيقي يبدأ بالتطبيق والتجربة والاستمرار في التطوير.
+طالب أمن سيبراني وقائد فريق **HUXORA Technology**، مهتم بتطوير البرمجيات، وأنظمة الحاسوب، وبناء مشاريع تقنية عملية. أؤمن أن التعلم الحقيقي يبدأ بالتطبيق والتجربة والاستمرار في التطوير.
 
-- 🎓 طالب **أمن سيبراني**
+- 🎓 طالب أمن سيبراني
+- 👥 قائد فريق **HUXORA Technology**
 - 🛡️ مهتم بالأمن الدفاعي، الشبكات، وإدارة الأنظمة
 - 💻 أتعلم وأطوّر باستخدام لغات البرمجة وتقنيات الويب
 - 🔧 أحوّل المعرفة النظرية إلى تطبيقات ومشاريع عملية
-- 🤝 عضو في **HUXORA Technology**
 - 🌱 أسعى إلى تطوير مهاراتي واكتساب خبرة عملية باستمرار
 
 ---
@@ -31,24 +31,16 @@
 ## 🧰 التقنيات والأدوات
 
 ### لغات البرمجة
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js" alt="Python, C++, Java, JavaScript" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=python,cpp,java,js" alt="Python, C++, Java, JavaScript" /></p>
 
 ### تطوير الويب
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs" alt="HTML, CSS, React, Tailwind, Node.js" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs" alt="HTML, CSS, React, Tailwind, Node.js" /></p>
 
 ### قواعد البيانات
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="MySQL, PostgreSQL" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=mysql,postgres" alt="MySQL, PostgreSQL" /></p>
 
 ### الأمن السيبراني والأنظمة والأدوات
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,kali,windows,docker,git,github,vscode,figma" alt="Linux, Kali Linux, Windows, Docker, Git, GitHub, VS Code, Figma" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=linux,kali,windows,docker,git,github,vscode,figma" alt="Linux, Kali Linux, Windows, Docker, Git, GitHub, VS Code, Figma" /></p>
 
 <sub>تعكس التقنيات أعلاه ما أدرسه أو أستكشفه أو استخدمته ضمن مشاريعي، وليست ادعاءً بإتقان جميع الأدوات.</sub>
 
@@ -94,12 +86,11 @@
 ## 📊 إحصائيات GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hasseensahaeri-ux&show_icons=true&hide_border=true&theme=transparent&title_color=00FF9C&icon_color=00FF9C&text_color=CBD5E1" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasseensahaeri-ux&layout=compact&hide_border=true&theme=transparent&title_color=00FF9C&text_color=CBD5E1" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hasseensahaeri-ux&show_icons=true&hide_border=true&theme=transparent&title_color=00FF9C&icon_color=00FF9C&text_color=CBD5E1" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasseensahaeri-ux&layout=compact&hide_border=true&theme=transparent&title_color=00FF9C&text_color=CBD5E1" alt="Top languages" />
 </div>
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=hasseensahaeri-ux&theme=dark&hide_border=true&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=hasseensahaeri-ux&theme=dark&hide_border=true&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" alt="GitHub contribution streak" />
 </div>
 
 ---
