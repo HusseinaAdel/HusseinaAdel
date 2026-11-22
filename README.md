@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="assets/profile-banner.svg" alt="حسين عادل السحاري — قائد فريق HUXORA Technology" width="100%" />
+<img src="assets/profile-banner.svg" alt="Hussein Adel — HUXORA Technology Team Leader" width="100%" />
 
-# حسين عادل السحاري
+# Hussein Adel
 ### قائد فريق HUXORA Technology · طالب أمن سيبراني · مطوّر برمجيات
 
 <img src="https://img.shields.io/badge/CYBERSECURITY-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00FF9C" />
