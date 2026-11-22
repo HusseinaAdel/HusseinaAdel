@@ -1,96 +1,97 @@
 <div align="center">
 
-# Hussein Adel Al-Sahari
+<img src="assets/profile-banner.svg" alt="حسين عادل السحاري - الأمن السيبراني وتطوير البرمجيات" width="100%" />
 
-**Cybersecurity Student · Software Developer · Technology Enthusiast**
+# حسين عادل السحاري
+### طالب أمن سيبراني · مطوّر برمجيات · شغوف بالتقنية
 
 <img src="https://img.shields.io/badge/CYBERSECURITY-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/DEVELOPMENT-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/SOFTWARE_DEVELOPMENT-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/HUXORA_TECHNOLOGY-0D1117?style=for-the-badge&logo=code&logoColor=00FF9C" />
 
-*Learning. Building. Securing. Improving.*
+**أتعلم · أبني · أحمي · أتطور**
 
 </div>
 
 ---
 
-## 👋 About Me
+## 👨‍💻 نبذة عني
 
-I'm a cybersecurity student passionate about software development, computer systems, and building practical technology projects.
+طالب أمن سيبراني مهتم بتطوير البرمجيات، وأنظمة الحاسوب، وبناء مشاريع تقنية عملية. أؤمن أن التعلم الحقيقي يبدأ بالتطبيق والتجربة والاستمرار في التطوير.
 
-- 🎓 Studying **Cybersecurity**
-- 🛡️ Exploring defensive security, networking, and system administration
-- 💻 Learning and building with programming and web technologies
-- 🔧 Turning concepts into hands-on projects
-- 🤝 Member of **HUXORA Technology**
-- 🌱 Focused on steady growth, practical experience, and continuous learning
+- 🎓 طالب **أمن سيبراني**
+- 🛡️ مهتم بالأمن الدفاعي، الشبكات، وإدارة الأنظمة
+- 💻 أتعلم وأطوّر باستخدام لغات البرمجة وتقنيات الويب
+- 🔧 أحوّل المعرفة النظرية إلى تطبيقات ومشاريع عملية
+- 🤝 عضو في **HUXORA Technology**
+- 🌱 أسعى إلى تطوير مهاراتي واكتساب خبرة عملية باستمرار
 
 ---
 
-## 🧰 Technologies & Tools
+## 🧰 التقنيات والأدوات
 
-**Languages**
+### لغات البرمجة
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,java,js" alt="Python, C++, Java, JavaScript" />
 </p>
 
-**Web & Development**
+### تطوير الويب
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs" alt="HTML, CSS, React, Tailwind, Node.js" />
 </p>
 
-**Databases**
+### قواعد البيانات
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="MySQL, PostgreSQL" />
 </p>
 
-**Cybersecurity, Systems & Tools**
+### الأمن السيبراني والأنظمة والأدوات
 <p>
   <img src="https://skillicons.dev/icons?i=linux,kali,windows,docker,git,github,vscode,figma" alt="Linux, Kali Linux, Windows, Docker, Git, GitHub, VS Code, Figma" />
 </p>
 
-<p><sub>Technologies shown represent tools and topics I've studied, explored, or used in projects—not a claim of mastery.</sub></p>
+<sub>تعكس التقنيات أعلاه ما أدرسه أو أستكشفه أو استخدمته ضمن مشاريعي، وليست ادعاءً بإتقان جميع الأدوات.</sub>
 
 ---
 
-## 🚀 Projects
+## 🚀 المشاريع
 
-### 🛡️ CYRO — Cybersecurity Monitoring Platform
-A team project exploring security monitoring, server telemetry, and SOC-inspired visibility through a centralized dashboard.
+### 🛡️ CYRO — منصة مراقبة الأمن السيبراني
+مشروع ضمن فريق يهدف إلى استكشاف المراقبة الأمنية، جمع بيانات الخوادم، وتوفير رؤية مركزية مستوحاة من بيئات SOC.
 
-- Server monitoring and telemetry
-- Windows Server agent integration
-- Centralized dashboard and security visibility
-- Security-focused UI and monitoring workflows
+- مراقبة الخوادم وجمع البيانات (Telemetry)
+- تكامل مع Windows Server Agent
+- لوحة مركزية للمراقبة والرؤية الأمنية
+- واجهة ومهام تركز على المراقبة الأمنية
 
-**Project links:** [GitHub Repository](https://github.com/hasseensahaeri-ux/CYRO) · [Live Demo](https://cyro-7uc6.onrender.com)
+**روابط المشروع:** [مستودع GitHub](https://github.com/hasseensahaeri-ux/CYRO) · [التجربة المباشرة](https://cyro-7uc6.onrender.com)
 
-### 🎓 UniFlow — University System Interface
-A university-focused web interface project exploring student-facing digital services and campus workflows.
+### 🎓 UniFlow — واجهة نظام جامعي
+مشروع واجهة ويب لنظام جامعي، يستكشف الخدمات الرقمية الموجهة للطلاب وتنظيم العمليات الجامعية.
 
-**Repository:** [uniflow-university-system-](https://github.com/hasseensahaeri-ux/uniflow-university-system-)
+**المستودع:** [uniflow-university-system-](https://github.com/hasseensahaeri-ux/uniflow-university-system-)
 
 ### 🧩 Doctors Tower — Java
-A Java project developed as part of my software development learning journey.
+مشروع Java ضمن رحلتي في تعلم تطوير البرمجيات واكتساب الخبرة البرمجية.
 
-**Repository:** [doctors-tower-java](https://github.com/hasseensahaeri-ux/doctors-tower-java)
-
----
-
-## 📚 Currently Learning & Exploring
-
-- Cybersecurity & Defensive Security
-- Networking fundamentals
-- Linux and system administration
-- Python programming
-- Java and C++
-- Web development
-- SQL and database design
-- Virtualization and infrastructure
+**المستودع:** [doctors-tower-java](https://github.com/hasseensahaeri-ux/doctors-tower-java)
 
 ---
 
-## 📊 GitHub Overview
+## 📚 أتعلم وأستكشف حاليًا
+
+- الأمن السيبراني والأمن الدفاعي
+- أساسيات الشبكات
+- Linux وإدارة الأنظمة
+- برمجة Python
+- Java و C++
+- تطوير الويب
+- SQL وتصميم قواعد البيانات
+- الأنظمة الافتراضية والبنية التحتية
+
+---
+
+## 📊 إحصائيات GitHub
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=hasseensahaeri-ux&show_icons=true&hide_border=true&theme=transparent&title_color=00FF9C&icon_color=00FF9C&text_color=CBD5E1" alt="GitHub statistics" />
@@ -105,7 +106,7 @@ A Java project developed as part of my software development learning journey.
 
 <div align="center">
 
-### Build with curiosity. Grow with discipline. Create with purpose.
+### الفضول يقود التعلم، والانضباط يصنع التطور، والعمل يحوّل الأفكار إلى واقع.
 
 <img src="https://komarev.com/ghpvc/?username=hasseensahaeri-ux&style=flat&color=00FF9C&label=PROFILE+VIEWS" alt="Profile views" />
 
