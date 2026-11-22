@@ -1,1 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360"><defs><linearGradient id="base" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#05080c"/><stop offset=".55" stop-color="#10161c"/><stop offset="1" stop-color="#05080c"/></linearGradient><radialGradient id="halo"><stop stop-color="#b8c5cf" stop-opacity=".09"/><stop offset="1" stop-color="#b8c5cf" stop-opacity="0"/></radialGradient><linearGradient id="silver" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#f4f7fa"/><stop offset="1" stop-color="#98a5b1"/></linearGradient></defs><rect width="1200" height="360" fill="url(#base)"/><rect width="1200" height="360" fill="url(#halo)"/><g stroke="#82909b" stroke-opacity=".15" fill="none"><path d="M30 35H1170V325H30Z"/><path d="M50 55H1150V305H50Z"/><path d="M0 280H1200M0 80H1200" stroke-dasharray="3 10"/><path d="M860 0V360M900 0V360M1080 0V360" stroke-opacity=".09"/></g><g transform="translate(930 95)" fill="none" stroke="#aab6c0" stroke-opacity=".52" stroke-width="1.5"><path d="M90 0 170 30V105Q165 165 90 205Q15 165 10 105V30Z"/><path d="M90 22 150 44V100Q145 145 90 178Q35 145 30 100V44Z" stroke="#00e89a" stroke-opacity=".55"/><path d="M90 50V128M58 87H122" stroke="#00e89a" stroke-opacity=".4"/></g><rect x="70" y="100" width="3" height="140" fill="#00e89a"/><g font-family="Arial,sans-serif"><text x="96" y="100" font-size="15" letter-spacing="5" fill="#00e89a">HUXORA TECHNOLOGY</text><text x="95" y="175" font-size="48" font-weight="700" fill="url(#silver)">حسين عادل السحاري</text><text x="98" y="222" font-size="22" letter-spacing="2" fill="#b5c0ca">CYBERSECURITY / SOFTWARE DEVELOPMENT</text><text x="98" y="265" font-size="16" letter-spacing="4" fill="#00e89a">TEAM LEADER</text><text x="98" y="310" font-size="12" letter-spacing="3" fill="#71808c">LEARN • BUILD • SECURE • EVOLVE</text></g><g fill="#00e89a"><rect x="50" y="50" width="22" height="2"/><rect x="50" y="50" width="2" height="22"/><rect x="1128" y="308" width="22" height="2"/><rect x="1148" y="288" width="2" height="22"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050c1b"/><stop offset="1" stop-color="#071426"/></linearGradient><linearGradient id="blue" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#079ef5"/><stop offset="1" stop-color="#087ed0"/></linearGradient></defs>
+<rect width="1200" height="360" fill="url(#bg)"/>
+<rect x="36" y="31" width="1128" height="298" rx="26" fill="none" stroke="#193251" stroke-width="2"/>
+<rect x="72" y="55" width="810" height="252" rx="4" fill="#0a1425" opacity=".6"/>
+<g transform="translate(102 78)">
+<path d="M120 0 220 58V174L120 232 20 174V58Z" fill="url(#blue)"/>
+<path d="M65 62h36v35h30V43h34v111h-34V125h-30v48H65Z" fill="#071426"/>
+</g>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="348" y="168" font-size="82" font-weight="400" letter-spacing="16" fill="#f5f8fc">HEXORA</text>
+<text x="352" y="212" font-size="26" letter-spacing="17" font-weight="600" fill="#7f9fc8">TECHNOLOGY</text>
+<path d="M910 275h50" stroke="#08a5f6" stroke-width="3" stroke-linecap="round"/>
+<text x="1116" y="286" font-size="24" text-anchor="end" fill="#d7e0eb">Hussein Adel</text>
+<path d="M996 299h120" stroke="#087fce" stroke-width="2"/>
+</g>
+</svg>
