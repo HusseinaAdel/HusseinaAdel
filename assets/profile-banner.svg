@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070b10"/><stop offset="1" stop-color="#111d27"/></linearGradient><radialGradient id="glow"><stop offset="0" stop-color="#00ff9c" stop-opacity=".24"/><stop offset="1" stop-color="#00ff9c" stop-opacity="0"/></radialGradient></defs>
+<rect width="1200" height="360" rx="18" fill="url(#bg)"/><circle cx="930" cy="170" r="280" fill="url(#glow)"/>
+<g fill="none" stroke="#00ff9c" stroke-opacity=".22"><path d="M0 290H1200M0 70H1200M100 0V360M1100 0V360"/></g>
+<g fill="#00ff9c" font-family="Arial,sans-serif"><text x="70" y="112" font-size="22" letter-spacing="8">CYBERSECURITY • SOFTWARE • SYSTEMS</text><text x="70" y="205" font-size="58" font-weight="700" fill="#f0f5f7" letter-spacing="1">حسين عادل السحاري</text><text x="70" y="260" font-size="28" fill="#00ff9c">طالب أمن سيبراني | مطوّر برمجيات</text><text x="70" y="315" font-size="18" fill="#9fb4bd">HUXORA TECHNOLOGY</text></g>
+<g stroke="#00ff9c" stroke-width="2" fill="none"><path d="M1000 105h110v150h-110z" opacity=".5"/><path d="M1030 140h50M1030 160h50M1030 180h35"/></g>
+</svg>
