@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="assets/profile-banner.svg" alt="Hussein Adel — HUXORA Technology Team Leader" width="100%" />
+<img src="assets/profile-banner.svg" alt="Hussein Adel — HEXORA Technology Team Leader" width="100%" />
 
 # Hussein Adel
-### قائد فريق HUXORA Technology · طالب أمن سيبراني · مطوّر برمجيات
+### قائد فريق HEXORA Technology · طالب أمن سيبراني · مطوّر برمجيات
 
 <img src="https://img.shields.io/badge/CYBERSECURITY-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00FF9C" />
 <img src="https://img.shields.io/badge/SOFTWARE_DEVELOPMENT-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/HUXORA_TECHNOLOGY-0D1117?style=for-the-badge&logo=code&logoColor=00FF9C" />
+<img src="https://img.shields.io/badge/HEXORA_TECHNOLOGY-0D1117?style=for-the-badge&logo=code&logoColor=00FF9C" />
 
 **أتعلم · أبني · أحمي · أتطور**
 
@@ -17,10 +17,10 @@
 
 ## 👨‍💻 نبذة عني
 
-طالب أمن سيبراني وقائد فريق **HUXORA Technology**، مهتم بتطوير البرمجيات، وأنظمة الحاسوب، وبناء مشاريع تقنية عملية. أؤمن أن التعلم الحقيقي يبدأ بالتطبيق والتجربة والاستمرار في التطوير.
+طالب أمن سيبراني وقائد فريق **HEXORA Technology**، مهتم بتطوير البرمجيات، وأنظمة الحاسوب، وبناء مشاريع تقنية عملية. أؤمن أن التعلم الحقيقي يبدأ بالتطبيق والتجربة والاستمرار في التطوير.
 
 - 🎓 طالب أمن سيبراني
-- 👥 قائد فريق **HUXORA Technology**
+- 👥 قائد فريق **HEXORA Technology**
 - 🛡️ مهتم بالأمن الدفاعي، الشبكات، وإدارة الأنظمة
 - 💻 أتعلم وأطوّر باستخدام لغات البرمجة وتقنيات الويب
 - 🔧 أحوّل المعرفة النظرية إلى تطبيقات ومشاريع عملية
