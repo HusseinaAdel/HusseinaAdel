@@ -56,17 +56,17 @@
 - لوحة مركزية للمراقبة والرؤية الأمنية
 - واجهة ومهام تركز على المراقبة الأمنية
 
-**روابط المشروع:** [مستودع GitHub](https://github.com/hasseensahaeri-ux/CYRO) · [التجربة المباشرة](https://cyro-7uc6.onrender.com)
+**روابط المشروع:** [مستودع GitHub](https://github.com/HusseinaAdel/CYRO) · [التجربة المباشرة](https://cyro-7uc6.onrender.com)
 
 ### 🎓 UniFlow — واجهة نظام جامعي
 مشروع واجهة ويب لنظام جامعي، يستكشف الخدمات الرقمية الموجهة للطلاب وتنظيم العمليات الجامعية.
 
-**المستودع:** [uniflow-university-system-](https://github.com/hasseensahaeri-ux/uniflow-university-system-)
+**المستودع:** [uniflow-university-system-](https://github.com/HusseinaAdel/uniflow-university-system-)
 
 ### 🧩 Doctors Tower — Java
 مشروع Java ضمن رحلتي في تعلم تطوير البرمجيات واكتساب الخبرة البرمجية.
 
-**المستودع:** [doctors-tower-java](https://github.com/hasseensahaeri-ux/doctors-tower-java)
+**المستودع:** [doctors-tower-java](https://github.com/HusseinaAdel/doctors-tower-java)
 
 ---
 
@@ -86,11 +86,11 @@
 ## 📊 إحصائيات GitHub
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hasseensahaeri-ux&show_icons=true&hide_border=true&theme=transparent&title_color=00FF9C&icon_color=00FF9C&text_color=CBD5E1" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasseensahaeri-ux&layout=compact&hide_border=true&theme=transparent&title_color=00FF9C&text_color=CBD5E1" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=HusseinaAdel&show_icons=true&hide_border=true&theme=transparent&title_color=00FF9C&icon_color=00FF9C&text_color=CBD5E1" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HusseinaAdel&layout=compact&hide_border=true&theme=transparent&title_color=00FF9C&text_color=CBD5E1" alt="Top languages" />
 </div>
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=hasseensahaeri-ux&theme=dark&hide_border=true&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=HusseinaAdel&theme=dark&hide_border=true&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" alt="GitHub contribution streak" />
 </div>
 
 ---
@@ -99,6 +99,6 @@
 
 ### الفضول يقود التعلم، والانضباط يصنع التطور، والعمل يحوّل الأفكار إلى واقع.
 
-<img src="https://komarev.com/ghpvc/?username=hasseensahaeri-ux&style=flat&color=00FF9C&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=HusseinaAdel&style=flat&color=00FF9C&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
